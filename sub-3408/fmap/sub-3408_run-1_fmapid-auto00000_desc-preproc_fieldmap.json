@@ -1,0 +1,15 @@
+{
+  "AnatomicalReference": "sub-3408_run-1_fmapid-auto00000_desc-epi_fieldmap.nii.gz",
+  "AssociatedCoefficients": [
+    "sub-3408_run-1_fmapid-auto00000_desc-coeff_fieldmap.nii.gz"
+  ],
+  "B0FieldIdentifier": "auto_00000",
+  "IntendedFor": [
+    "func/sub-3408_task-TemporalMST_run-1_bold.nii.gz"
+  ],
+  "RawSources": [
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002655-fmriprep/sourcedata/raw/sub-3408/fmap/sub-3408_dir-PA_run-1_epi.nii.gz",
+    "/scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds002655-fmriprep/sourcedata/raw/sub-3408/func/sub-3408_task-TemporalMST_run-1_bold.nii.gz"
+  ],
+  "Units": "Hz"
+}
