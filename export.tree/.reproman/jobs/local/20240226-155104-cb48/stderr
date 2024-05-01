@@ -1,0 +1,13 @@
+Warning: Permanently added 'c108-102' (ECDSA) to the list of known hosts.
+WARNING (03/01/24 16:20:29): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6138860.hostlist.RbdsMn7M to get hosts
+starting job on c108-102
+starting job on c108-103
+starting job on c108-104
+starting job on c108-111
+starting job on c108-112
+starting job on c108-113
+starting job on c108-114
+starting job on c108-121
+starting job on c108-122
+Terminated
